@@ -80,6 +80,9 @@ form{
     border: 1px solid rgb(211, 211, 211);
     padding: 10px;
 }
+.inserir:focus{
+    outline: 1px solid rgb(29, 108, 255);
+}
 
 ::placeholder{
     font-size: 16px;
